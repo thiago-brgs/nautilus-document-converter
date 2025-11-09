@@ -31,7 +31,7 @@ Existem duas maneiras de instalar: uma automática (recomendada) e uma manual.
 1.  **Clone o repositório:**
     ```bash
     git clone https://github.com/thiago-brgs/https://github.com/thiago-brgs/nautilus-document-converter
-    cd https://github.com/thiago-brgs/nautilus-document-converter
+    cd ~/nautilus-document-converter 
     ```
     
 2.  **Execute o script de instalação:**
